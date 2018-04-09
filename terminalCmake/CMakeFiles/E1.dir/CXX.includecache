@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/karlnico/Dropbox/Spring 18 - Ga Tech/6122 Adv Prog Techniques/Code/E1/main.cpp
+iostream
+-
+
